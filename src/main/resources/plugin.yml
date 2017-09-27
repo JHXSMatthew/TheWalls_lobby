@@ -1,0 +1,4 @@
+name: WallLobby
+main: com.mcndsj.Walls_Lobby.Walls_Lobby
+version: 0.0.1-SNAPSHOT
+depend: [lobbyStatistics, LobbyDisplay, lobbyControl]
